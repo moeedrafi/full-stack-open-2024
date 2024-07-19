@@ -6,4 +6,9 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 ### [Part 0 - Fundamentals of Web apps](tree/master/part0)
 - General Info
 - Fundamentals of Web apps
-  - HTTP GET
+
+### [Part 1 - Introduction to React](tree/master/part1)
+- Introduction to React
+- JavaScript
+- Component State, event handlers
+- A more complex state, debugging React apps
